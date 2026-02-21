@@ -1,0 +1,7 @@
+{
+  "name": "Blue Shell Agent Services",
+  "description": "Pay-per-use API services for AI agents. Screenshot API ($0.001) with stealth mode for Cloudflare-protected sites, and Domain Availability Check ($0.0005) via Porkbun. No accounts, no API keys — just x402.",
+  "logoUrl": "/logos/blue-shell.png",
+  "websiteUrl": "https://pincersapi.com",
+  "category": "Services/Endpoints"
+}
